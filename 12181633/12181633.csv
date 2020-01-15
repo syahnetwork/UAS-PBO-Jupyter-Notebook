@@ -1,0 +1,366 @@
+_id,idx,vervar,var,turvar,tahun,turtahun,nilai
+1,0,Kalijambe,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Kelinci,2011,Tahun,83
+2,1,Kalijambe,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Kelinci,2012,Tahun,85
+3,2,Kalijambe,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Kelinci,2013,Tahun,85
+4,3,Kalijambe,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Kelinci,2014,Tahun,85
+5,4,Kalijambe,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Kelinci,2015,Tahun,85
+6,5,Kalijambe,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Kampung,2011,Tahun,38739
+7,6,Kalijambe,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Kampung,2012,Tahun,38753
+8,7,Kalijambe,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Kampung,2013,Tahun,39862
+9,8,Kalijambe,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Kampung,2014,Tahun,39862
+10,9,Kalijambe,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Kampung,2015,Tahun,39864
+11,10,Kalijambe,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Ras,2011,Tahun,252772
+12,11,Kalijambe,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Ras,2012,Tahun,270728
+13,12,Kalijambe,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Ras,2013,Tahun,295748
+14,13,Kalijambe,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Ras,2014,Tahun,280968
+15,14,Kalijambe,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Ras,2015,Tahun,282568
+16,15,Kalijambe,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik,2011,Tahun,487
+17,16,Kalijambe,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik,2012,Tahun,517
+18,17,Kalijambe,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik,2013,Tahun,527
+19,18,Kalijambe,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik,2014,Tahun,527
+20,19,Kalijambe,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik,2015,Tahun,547
+21,20,Kalijambe,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik Manila,2011,Tahun,3059
+22,21,Kalijambe,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik Manila,2012,Tahun,3095
+23,22,Kalijambe,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik Manila,2013,Tahun,3098
+24,23,Kalijambe,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik Manila,2014,Tahun,3098
+25,24,Kalijambe,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik Manila,2015,Tahun,3100
+26,25,Kalijambe,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Angsa,2011,Tahun,59
+27,26,Kalijambe,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Angsa,2012,Tahun,62
+28,27,Kalijambe,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Angsa,2013,Tahun,62
+29,28,Kalijambe,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Angsa,2014,Tahun,62
+30,29,Kalijambe,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Angsa,2015,Tahun,64
+31,30,Kalijambe,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Puyuh,2011,Tahun,512
+32,31,Kalijambe,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Puyuh,2012,Tahun,515
+33,32,Kalijambe,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Puyuh,2013,Tahun,645
+34,33,Kalijambe,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Puyuh,2014,Tahun,645
+35,34,Kalijambe,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Puyuh,2015,Tahun,655
+36,35,Plupuh,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Kelinci,2011,Tahun,0
+37,36,Plupuh,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Kelinci,2012,Tahun,0
+38,37,Plupuh,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Kelinci,2013,Tahun,0
+39,38,Plupuh,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Kelinci,2014,Tahun,0
+40,39,Plupuh,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Kelinci,2015,Tahun,0
+41,40,Plupuh,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Kampung,2011,Tahun,34075
+42,41,Plupuh,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Kampung,2012,Tahun,34089
+43,42,Plupuh,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Kampung,2013,Tahun,35119
+44,43,Plupuh,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Kampung,2014,Tahun,35119
+45,44,Plupuh,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Kampung,2015,Tahun,35119
+46,45,Plupuh,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Ras,2011,Tahun,58520
+47,46,Plupuh,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Ras,2012,Tahun,74128
+48,47,Plupuh,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Ras,2013,Tahun,98308
+49,48,Plupuh,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Ras,2014,Tahun,181324
+50,49,Plupuh,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Ras,2015,Tahun,182124
+51,50,Plupuh,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik,2011,Tahun,649
+52,51,Plupuh,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik,2012,Tahun,678
+53,52,Plupuh,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik,2013,Tahun,688
+54,53,Plupuh,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik,2014,Tahun,678
+55,54,Plupuh,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik,2015,Tahun,678
+56,55,Plupuh,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik Manila,2011,Tahun,271
+57,56,Plupuh,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik Manila,2012,Tahun,279
+58,57,Plupuh,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik Manila,2013,Tahun,292
+59,58,Plupuh,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik Manila,2014,Tahun,292
+60,59,Plupuh,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik Manila,2015,Tahun,294
+61,60,Plupuh,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Angsa,2011,Tahun,26
+62,61,Plupuh,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Angsa,2012,Tahun,27
+63,62,Plupuh,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Angsa,2013,Tahun,27
+64,63,Plupuh,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Angsa,2014,Tahun,27
+65,64,Plupuh,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Angsa,2015,Tahun,31
+66,65,Plupuh,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Puyuh,2011,Tahun,0
+67,66,Plupuh,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Puyuh,2012,Tahun,0
+68,67,Plupuh,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Puyuh,2013,Tahun,0
+69,68,Plupuh,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Puyuh,2014,Tahun,0
+70,69,Plupuh,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Puyuh,2015,Tahun,0
+71,70,Masaran,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Kelinci,2011,Tahun,68
+72,71,Masaran,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Kelinci,2012,Tahun,69
+73,72,Masaran,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Kelinci,2013,Tahun,69
+74,73,Masaran,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Kelinci,2014,Tahun,69
+75,74,Masaran,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Kelinci,2015,Tahun,69
+76,75,Masaran,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Kampung,2011,Tahun,66083
+77,76,Masaran,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Kampung,2012,Tahun,66105
+78,77,Masaran,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Kampung,2013,Tahun,66823
+79,78,Masaran,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Kampung,2014,Tahun,66823
+80,79,Masaran,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Kampung,2015,Tahun,66825
+81,80,Masaran,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Ras,2011,Tahun,440818
+82,81,Masaran,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Ras,2012,Tahun,100040
+83,82,Masaran,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Ras,2013,Tahun,121260
+84,83,Masaran,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Ras,2014,Tahun,106440
+85,84,Masaran,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Ras,2015,Tahun,102470
+86,85,Masaran,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik,2011,Tahun,4203
+87,86,Masaran,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik,2012,Tahun,4241
+88,87,Masaran,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik,2013,Tahun,4513
+89,88,Masaran,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik,2014,Tahun,4513
+90,89,Masaran,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik,2015,Tahun,4558
+91,90,Masaran,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik Manila,2011,Tahun,295
+92,91,Masaran,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik Manila,2012,Tahun,302
+93,92,Masaran,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik Manila,2013,Tahun,315
+94,93,Masaran,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik Manila,2014,Tahun,315
+95,94,Masaran,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik Manila,2015,Tahun,318
+96,95,Masaran,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Angsa,2011,Tahun,59
+97,96,Masaran,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Angsa,2012,Tahun,60
+98,97,Masaran,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Angsa,2013,Tahun,60
+99,98,Masaran,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Angsa,2014,Tahun,60
+100,99,Masaran,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Angsa,2015,Tahun,62
+101,100,Masaran,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Puyuh,2011,Tahun,2989
+102,101,Masaran,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Puyuh,2012,Tahun,2995
+103,102,Masaran,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Puyuh,2013,Tahun,3065
+104,103,Masaran,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Puyuh,2014,Tahun,3065
+105,104,Masaran,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Puyuh,2015,Tahun,3075
+106,105,Kedawung,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Kelinci,2011,Tahun,465
+107,106,Kedawung,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Kelinci,2012,Tahun,477
+108,107,Kedawung,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Kelinci,2013,Tahun,477
+109,108,Kedawung,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Kelinci,2014,Tahun,477
+110,109,Kedawung,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Kelinci,2015,Tahun,479
+111,110,Kedawung,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Kampung,2011,Tahun,52549
+112,111,Kedawung,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Kampung,2012,Tahun,52563
+113,112,Kedawung,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Kampung,2013,Tahun,53271
+114,113,Kedawung,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Kampung,2014,Tahun,53271
+115,114,Kedawung,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Kampung,2015,Tahun,53271
+116,115,Kedawung,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Ras,2011,Tahun,457499
+117,116,Kedawung,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Ras,2012,Tahun,343104
+118,117,Kedawung,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Ras,2013,Tahun,364524
+119,118,Kedawung,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Ras,2014,Tahun,349704
+120,119,Kedawung,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Ras,2015,Tahun,349904
+121,120,Kedawung,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik,2011,Tahun,9707
+122,121,Kedawung,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik,2012,Tahun,6726
+123,122,Kedawung,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik,2013,Tahun,3836
+124,123,Kedawung,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik,2014,Tahun,3836
+125,124,Kedawung,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik,2015,Tahun,3881
+126,125,Kedawung,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik Manila,2011,Tahun,808
+127,126,Kedawung,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik Manila,2012,Tahun,813
+128,127,Kedawung,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik Manila,2013,Tahun,866
+129,128,Kedawung,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik Manila,2014,Tahun,866
+130,129,Kedawung,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik Manila,2015,Tahun,867
+131,130,Kedawung,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Angsa,2011,Tahun,169
+132,131,Kedawung,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Angsa,2012,Tahun,170
+133,132,Kedawung,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Angsa,2013,Tahun,170
+134,133,Kedawung,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Angsa,2014,Tahun,170
+135,134,Kedawung,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Angsa,2015,Tahun,174
+136,135,Kedawung,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Puyuh,2011,Tahun,5488
+137,136,Kedawung,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Puyuh,2012,Tahun,5492
+138,137,Kedawung,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Puyuh,2013,Tahun,5562
+139,138,Kedawung,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Puyuh,2014,Tahun,5562
+140,139,Kedawung,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Puyuh,2015,Tahun,5562
+141,140,Sambirejo,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Kelinci,2011,Tahun,0
+142,141,Sambirejo,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Kelinci,2012,Tahun,0
+143,142,Sambirejo,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Kelinci,2013,Tahun,0
+144,143,Sambirejo,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Kelinci,2014,Tahun,0
+145,144,Sambirejo,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Kelinci,2015,Tahun,0
+146,145,Sambirejo,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Kampung,2011,Tahun,41678
+147,146,Sambirejo,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Kampung,2012,Tahun,41690
+148,147,Sambirejo,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Kampung,2013,Tahun,42356
+149,148,Sambirejo,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Kampung,2014,Tahun,42356
+150,149,Sambirejo,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Kampung,2015,Tahun,42357
+151,150,Sambirejo,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Ras,2011,Tahun,121527
+152,151,Sambirejo,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Ras,2012,Tahun,123980
+153,152,Sambirejo,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Ras,2013,Tahun,146228
+154,153,Sambirejo,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Ras,2014,Tahun,131460
+155,154,Sambirejo,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Ras,2015,Tahun,134250
+156,155,Sambirejo,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik,2011,Tahun,459
+157,156,Sambirejo,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik,2012,Tahun,486
+158,157,Sambirejo,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik,2013,Tahun,496
+159,158,Sambirejo,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik,2014,Tahun,496
+160,159,Sambirejo,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik,2015,Tahun,496
+343,342,Sragen,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Angsa,2013,Tahun,157
+161,160,Sambirejo,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik Manila,2011,Tahun,0
+162,161,Sambirejo,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik Manila,2012,Tahun,0
+163,162,Sambirejo,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik Manila,2013,Tahun,0
+164,163,Sambirejo,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik Manila,2014,Tahun,0
+165,164,Sambirejo,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik Manila,2015,Tahun,0
+166,165,Sambirejo,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Angsa,2011,Tahun,0
+167,166,Sambirejo,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Angsa,2012,Tahun,0
+168,167,Sambirejo,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Angsa,2013,Tahun,0
+169,168,Sambirejo,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Angsa,2014,Tahun,0
+170,169,Sambirejo,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Angsa,2015,Tahun,0
+171,170,Sambirejo,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Puyuh,2011,Tahun,0
+172,171,Sambirejo,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Puyuh,2012,Tahun,0
+173,172,Sambirejo,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Puyuh,2013,Tahun,0
+174,173,Sambirejo,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Puyuh,2014,Tahun,0
+175,174,Sambirejo,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Puyuh,2015,Tahun,0
+176,175,Gondang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Kelinci,2011,Tahun,68
+177,176,Gondang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Kelinci,2012,Tahun,71
+178,177,Gondang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Kelinci,2013,Tahun,71
+179,178,Gondang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Kelinci,2014,Tahun,39
+180,179,Gondang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Kelinci,2015,Tahun,39
+181,180,Gondang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Kampung,2011,Tahun,23561
+182,181,Gondang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Kampung,2012,Tahun,23579
+183,182,Gondang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Kampung,2013,Tahun,24287
+184,183,Gondang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Kampung,2014,Tahun,34917
+185,184,Gondang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Kampung,2015,Tahun,34917
+186,185,Gondang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Ras,2011,Tahun,46038
+187,186,Gondang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Ras,2012,Tahun,58436
+188,187,Gondang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Ras,2013,Tahun,81616
+189,188,Gondang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Ras,2014,Tahun,66796
+190,189,Gondang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Ras,2015,Tahun,67317
+191,190,Gondang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik,2011,Tahun,724
+192,191,Gondang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik,2012,Tahun,741
+193,192,Gondang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik,2013,Tahun,751
+194,193,Gondang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik,2014,Tahun,1075
+195,194,Gondang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik,2015,Tahun,1075
+196,195,Gondang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik Manila,2011,Tahun,444
+197,196,Gondang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik Manila,2012,Tahun,449
+198,197,Gondang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik Manila,2013,Tahun,452
+199,198,Gondang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik Manila,2014,Tahun,452
+200,199,Gondang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik Manila,2015,Tahun,457
+201,200,Gondang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Angsa,2011,Tahun,11
+202,201,Gondang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Angsa,2012,Tahun,12
+203,202,Gondang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Angsa,2013,Tahun,12
+204,203,Gondang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Angsa,2014,Tahun,45
+205,204,Gondang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Angsa,2015,Tahun,47
+206,205,Gondang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Puyuh,2011,Tahun,5968
+207,206,Gondang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Puyuh,2012,Tahun,5995
+208,207,Gondang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Puyuh,2013,Tahun,6065
+209,208,Gondang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Puyuh,2014,Tahun,6000
+210,209,Gondang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Puyuh,2015,Tahun,6000
+211,210,Sambungmacan,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Kelinci,2011,Tahun,0
+212,211,Sambungmacan,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Kelinci,2012,Tahun,0
+213,212,Sambungmacan,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Kelinci,2013,Tahun,0
+214,213,Sambungmacan,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Kelinci,2014,Tahun,47
+215,214,Sambungmacan,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Kelinci,2015,Tahun,47
+216,215,Sambungmacan,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Kampung,2011,Tahun,30503
+217,216,Sambungmacan,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Kampung,2012,Tahun,30518
+218,217,Sambungmacan,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Kampung,2013,Tahun,31286
+219,218,Sambungmacan,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Kampung,2014,Tahun,31286
+220,219,Sambungmacan,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Kampung,2015,Tahun,31287
+221,220,Sambungmacan,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Ras,2011,Tahun,163294
+222,221,Sambungmacan,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Ras,2012,Tahun,194740
+223,222,Sambungmacan,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Ras,2013,Tahun,219960
+224,223,Sambungmacan,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Ras,2014,Tahun,206180
+225,224,Sambungmacan,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Ras,2015,Tahun,207140
+226,225,Sambungmacan,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik,2011,Tahun,984
+227,226,Sambungmacan,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik,2012,Tahun,1014
+228,227,Sambungmacan,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik,2013,Tahun,1014
+229,228,Sambungmacan,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik,2014,Tahun,1024
+230,229,Sambungmacan,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik,2015,Tahun,1024
+231,230,Sambungmacan,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik Manila,2011,Tahun,391
+232,231,Sambungmacan,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik Manila,2012,Tahun,400
+233,232,Sambungmacan,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik Manila,2013,Tahun,403
+234,233,Sambungmacan,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik Manila,2014,Tahun,410
+235,234,Sambungmacan,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik Manila,2015,Tahun,410
+236,235,Sambungmacan,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Angsa,2011,Tahun,172
+237,236,Sambungmacan,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Angsa,2012,Tahun,173
+238,237,Sambungmacan,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Angsa,2013,Tahun,178
+239,238,Sambungmacan,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Angsa,2014,Tahun,183
+240,239,Sambungmacan,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Angsa,2015,Tahun,189
+241,240,Sambungmacan,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Puyuh,2011,Tahun,1499
+242,241,Sambungmacan,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Puyuh,2012,Tahun,1499
+243,242,Sambungmacan,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Puyuh,2013,Tahun,1569
+244,243,Sambungmacan,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Puyuh,2014,Tahun,1570
+245,244,Sambungmacan,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Puyuh,2015,Tahun,1570
+246,245,Ngrampal,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Kelinci,2011,Tahun,0
+247,246,Ngrampal,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Kelinci,2012,Tahun,0
+248,247,Ngrampal,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Kelinci,2013,Tahun,0
+249,248,Ngrampal,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Kelinci,2014,Tahun,0
+250,249,Ngrampal,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Kelinci,2015,Tahun,0
+344,343,Sragen,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Angsa,2014,Tahun,157
+251,250,Ngrampal,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Kampung,2011,Tahun,25791
+252,251,Ngrampal,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Kampung,2012,Tahun,25812
+253,252,Ngrampal,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Kampung,2013,Tahun,26519
+254,253,Ngrampal,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Kampung,2014,Tahun,26519
+255,254,Ngrampal,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Kampung,2015,Tahun,26519
+256,255,Ngrampal,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Ras,2011,Tahun,96487
+257,256,Ngrampal,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Ras,2012,Tahun,103266
+258,257,Ngrampal,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Ras,2013,Tahun,125484
+259,258,Ngrampal,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Ras,2014,Tahun,110704
+260,259,Ngrampal,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Ras,2015,Tahun,112415
+261,260,Ngrampal,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik,2011,Tahun,5146
+262,261,Ngrampal,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik,2012,Tahun,5177
+263,262,Ngrampal,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik,2013,Tahun,5187
+264,263,Ngrampal,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik,2014,Tahun,5187
+265,264,Ngrampal,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik,2015,Tahun,5187
+266,265,Ngrampal,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik Manila,2011,Tahun,0
+267,266,Ngrampal,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik Manila,2012,Tahun,0
+268,267,Ngrampal,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik Manila,2013,Tahun,0
+269,268,Ngrampal,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik Manila,2014,Tahun,0
+270,269,Ngrampal,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik Manila,2015,Tahun,0
+271,270,Ngrampal,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Angsa,2011,Tahun,0
+272,271,Ngrampal,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Angsa,2012,Tahun,0
+273,272,Ngrampal,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Angsa,2013,Tahun,0
+274,273,Ngrampal,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Angsa,2014,Tahun,0
+275,274,Ngrampal,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Angsa,2015,Tahun,0
+276,275,Ngrampal,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Puyuh,2011,Tahun,0
+277,276,Ngrampal,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Puyuh,2012,Tahun,0
+278,277,Ngrampal,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Puyuh,2013,Tahun,0
+279,278,Ngrampal,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Puyuh,2014,Tahun,0
+280,279,Ngrampal,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Puyuh,2015,Tahun,0
+281,280,Karangmalang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Kelinci,2011,Tahun,0
+282,281,Karangmalang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Kelinci,2012,Tahun,0
+283,282,Karangmalang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Kelinci,2013,Tahun,0
+284,283,Karangmalang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Kelinci,2014,Tahun,0
+285,284,Karangmalang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Kelinci,2015,Tahun,0
+286,285,Karangmalang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Kampung,2011,Tahun,71617
+287,286,Karangmalang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Kampung,2012,Tahun,71629
+288,287,Karangmalang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Kampung,2013,Tahun,72335
+289,288,Karangmalang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Kampung,2014,Tahun,72335
+290,289,Karangmalang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Kampung,2015,Tahun,72336
+291,290,Karangmalang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Ras,2011,Tahun,128635
+292,291,Karangmalang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Ras,2012,Tahun,165818
+293,292,Karangmalang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Ras,2013,Tahun,196664
+294,293,Karangmalang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Ras,2014,Tahun,181844
+295,294,Karangmalang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Ras,2015,Tahun,182544
+345,344,Sragen,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Angsa,2015,Tahun,159
+296,295,Karangmalang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik,2011,Tahun,721
+297,296,Karangmalang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik,2012,Tahun,748
+298,297,Karangmalang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik,2013,Tahun,728
+299,298,Karangmalang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik,2014,Tahun,728
+300,299,Karangmalang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik,2015,Tahun,728
+301,300,Karangmalang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik Manila,2011,Tahun,0
+302,301,Karangmalang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik Manila,2012,Tahun,0
+303,302,Karangmalang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik Manila,2013,Tahun,0
+304,303,Karangmalang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik Manila,2014,Tahun,0
+305,304,Karangmalang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik Manila,2015,Tahun,0
+306,305,Karangmalang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Angsa,2011,Tahun,274
+307,306,Karangmalang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Angsa,2012,Tahun,275
+308,307,Karangmalang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Angsa,2013,Tahun,275
+309,308,Karangmalang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Angsa,2014,Tahun,275
+310,309,Karangmalang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Angsa,2015,Tahun,282
+311,310,Karangmalang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Puyuh,2011,Tahun,6255
+312,311,Karangmalang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Puyuh,2012,Tahun,6255
+313,312,Karangmalang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Puyuh,2013,Tahun,6325
+314,313,Karangmalang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Puyuh,2014,Tahun,6325
+315,314,Karangmalang,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Puyuh,2015,Tahun,6345
+316,315,Sragen,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Kelinci,2011,Tahun,214
+317,316,Sragen,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Kelinci,2012,Tahun,216
+318,317,Sragen,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Kelinci,2013,Tahun,241
+319,318,Sragen,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Kelinci,2014,Tahun,241
+320,319,Sragen,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Kelinci,2015,Tahun,241
+321,320,Sragen,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Kampung,2011,Tahun,59357
+322,321,Sragen,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Kampung,2012,Tahun,59369
+323,322,Sragen,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Kampung,2013,Tahun,60044
+324,323,Sragen,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Kampung,2014,Tahun,60044
+325,324,Sragen,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Kampung,2015,Tahun,60046
+326,325,Sragen,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Ras,2011,Tahun,73553
+327,326,Sragen,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Ras,2012,Tahun,68588
+328,327,Sragen,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Ras,2013,Tahun,93768
+329,328,Sragen,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Ras,2014,Tahun,79948
+330,329,Sragen,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Ras,2015,Tahun,80632
+331,330,Sragen,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik,2011,Tahun,1362
+332,331,Sragen,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik,2012,Tahun,1393
+333,332,Sragen,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik,2013,Tahun,1403
+334,333,Sragen,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik,2014,Tahun,1403
+335,334,Sragen,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik,2015,Tahun,1403
+336,335,Sragen,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik Manila,2011,Tahun,1193
+337,336,Sragen,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik Manila,2012,Tahun,1211
+338,337,Sragen,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik Manila,2013,Tahun,1264
+339,338,Sragen,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik Manila,2014,Tahun,1264
+340,339,Sragen,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Itik Manila,2015,Tahun,1269
+341,340,Sragen,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Angsa,2011,Tahun,156
+342,341,Sragen,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Angsa,2012,Tahun,157
+346,345,Sragen,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Puyuh,2011,Tahun,3933
+347,346,Sragen,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Puyuh,2012,Tahun,3954
+348,347,Sragen,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Puyuh,2013,Tahun,4024
+349,348,Sragen,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Puyuh,2014,Tahun,4024
+350,349,Sragen,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Puyuh,2015,Tahun,4024
+351,350,Sidoharjo,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Kelinci,2011,Tahun,0
+352,351,Sidoharjo,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Kelinci,2012,Tahun,0
+353,352,Sidoharjo,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Kelinci,2013,Tahun,0
+354,353,Sidoharjo,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Kelinci,2014,Tahun,176
+355,354,Sidoharjo,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Kelinci,2015,Tahun,177
+356,355,Sidoharjo,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Kampung,2011,Tahun,24682
+357,356,Sidoharjo,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Kampung,2012,Tahun,24696
+358,357,Sidoharjo,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Kampung,2013,Tahun,25242
+359,358,Sidoharjo,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Kampung,2014,Tahun,25242
+360,359,Sidoharjo,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Kampung,2015,Tahun,25242
+361,360,Sidoharjo,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Ras,2011,Tahun,157057
+362,361,Sidoharjo,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Ras,2012,Tahun,173404
+363,362,Sidoharjo,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Ras,2013,Tahun,195584
+364,363,Sidoharjo,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Ras,2014,Tahun,304764
+365,364,Sidoharjo,Banyaknya Ternak Unggas Menurut Kecamatan di Kabupaten Sragen,Ayam Ras,2015,Tahun,305613
